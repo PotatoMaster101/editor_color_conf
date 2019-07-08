@@ -1,0 +1,93 @@
+{
+    "Settings":{
+        "_comment":"settings for the output configuration",
+        "name":"JustATemplate",
+        "theme":"Dark"
+    },
+    "Comment":{
+        "_comment":"comment block",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "String":{
+        "_comment":"a string constant",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Character":{
+        "_comment":"a character constant",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Number":{
+        "_comment":"a number constant",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Boolean":{
+        "_comment":"a boolean constant",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Float":{
+        "_comment":"a float constant",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Function":{
+        "_comment":"a function name",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Conditional":{
+        "_comment":"conditional keywords (if, else, switch etc)",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Repeat":{
+        "_comment":"looping keywords (for, while, do etc)",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Label":{
+        "_comment":"label keywords (case, default etc)",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Operator":{
+        "_comment":"operators (+, -, sizeof etc)",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Exception":{
+        "_comment":"exception keywords (throw, catch etc)",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Keyword":{
+        "_comment":"any other keyword",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Include":{
+        "_comment":"preprocessor #include",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Define":{
+        "_comment":"preprocessor #define",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Define":{
+        "_comment":"preprocessor #define",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    },
+    "Macro":{
+        "_comment":"preprocessor macros",
+        "background":"#ffffff",
+        "foreground":"#000000"
+    }
+}
+
