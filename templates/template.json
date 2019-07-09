@@ -79,11 +79,6 @@
         "background":"#ffffff",
         "foreground":"#000000"
     },
-    "Define":{
-        "_comment":"preprocessor #define",
-        "background":"#ffffff",
-        "foreground":"#000000"
-    },
     "Macro":{
         "_comment":"preprocessor macros",
         "background":"#ffffff",
